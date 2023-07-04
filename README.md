@@ -2,6 +2,9 @@
 
 ## windows
 
+### browser
+* chrome
+
 ### pdf 
 * pdf-exchange editor
 
