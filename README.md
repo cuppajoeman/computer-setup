@@ -7,6 +7,7 @@
 
 ### files
 * windirstat
+* [pandoc](https://pandoc.org/)
 
 ### pdf 
 * pdf-exchange editor
