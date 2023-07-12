@@ -54,6 +54,8 @@
 * github desktop
 * git-bash
 * nodejs
+* Websites:
+  * https://programming-idioms.org/
   
 ### video editing
 * shotcut
