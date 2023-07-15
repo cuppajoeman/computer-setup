@@ -12,14 +12,15 @@
 * mouse enhanced precision turned off
 
 ### browser
-* chrome
+* chrome (w,m), firefox (l)
 
 ### files
-* windirstat
-* [pandoc](https://pandoc.org/)
+* a visual storage manager: [windirstat](https://windirstat.net/)
+* document format changer: [pandoc](https://pandoc.org/)
+* zip file opener: [7zip](https://www.7-zip.org/)
 
 ### pdf 
-* pdf-exchange editor
+* pdf editor and viewer: pdf-exchange editor
 
 ### music
 * fl-studio
