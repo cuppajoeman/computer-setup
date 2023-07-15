@@ -1,6 +1,15 @@
 # computer-setup
 
+## hardware
+* steelseries qck cloth mousepad large (450x400x2mm)
+* any keyboard with decent switches
+* 144hz+ monitor at eye level
+
 ## windows
+
+### mouse settings
+* 3 mouse sensitivity
+* mouse enhanced precision turned off
 
 ### browser
 * chrome
