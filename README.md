@@ -8,19 +8,20 @@
 ## windows
 
 ### mouse settings
-* 3 mouse sensitivity
+* 3 mouse sensitivity 
 * mouse enhanced precision turned off
 
 ### browser
-* chrome (w,m), firefox (l)
+* [chrome](https://www.google.com/chrome/) (w,m), firefox (l)
 
 ### files
+* cloud storage: [google drive](https://www.google.com/intl/en_ca/drive/download/)
 * a visual storage manager: [windirstat](https://windirstat.net/)
 * document format changer: [pandoc](https://pandoc.org/)
 * zip file opener: [7zip](https://www.7-zip.org/)
 
 ### pdf 
-* pdf editor and viewer: pdf-exchange editor
+* pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor)
 
 ### music
 * fl-studio
@@ -42,15 +43,14 @@
 
 ### 3d modelling
 * trenchbroom
-* 3ds max
 * blender
 * crocotile3d
 
 ### content creation
 * obs studio
-
+  
 ### configuration
-* windows power tools (swap escape and caps)
+* [windows power toys](https://learn.microsoft.com/en-us/windows/powertoys/) (swap escape and caps)
 * autohotkey
 
 ### programming
