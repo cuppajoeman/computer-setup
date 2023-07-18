@@ -5,11 +5,12 @@
 * any keyboard with decent switches
 * 144hz+ monitor at eye level
 
-## windows
+### statistics
+* htop, neofetch (l)
 
 ### mouse settings
-* 3 mouse sensitivity 
-* mouse enhanced precision turned off
+* 3 mouse sensitivity, mouse enhanced precision turned off (w)
+* mouse sensitivity matrix (l)
 
 ### browser
 * [chrome](https://www.google.com/chrome/) (w,m), firefox (l)
