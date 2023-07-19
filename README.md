@@ -63,8 +63,8 @@
 * neovim
 * godot
 * pycharm
-* vscode
-* visual studio code
+* [vscode](https://code.visualstudio.com/)
+* visual studio
 * android studio
 * webstorm
 * github desktop
