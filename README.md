@@ -8,6 +8,11 @@
 ### statistics
 * htop, neofetch (l)
 
+### communication
+* cloudirc
+* discord
+* email
+
 ### mouse settings
 * 3 mouse sensitivity, mouse enhanced precision turned off (w)
 * mouse sensitivity matrix (l)
