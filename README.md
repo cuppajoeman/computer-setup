@@ -1,5 +1,7 @@
 # computer-setup
 
+How to install applications. If the application is gui software which autoupdates itself, install it directly from the website. If it is software which is downloadable through a github release or is command line only software consider installing it with scoop.
+
 ## hardware
 * steelseries qck cloth mousepad large (450x400x2mm)
 * any keyboard with decent switches
@@ -10,7 +12,7 @@
 
 ### communication
 * cloudirc
-* discord
+* [discord](https://discord.com/)
 * email
 
 ### mouse settings
@@ -30,7 +32,7 @@
 * pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor)
 
 ### music
-* fl-studio
+* [fl-studio](https://www.image-line.com/)
 * reaper
 * loopmidi
 * ample upright bass vst
@@ -42,7 +44,7 @@
 * spotify
 
 ### images
-* gimp
+* [gimp](https://www.gimp.org/)
 * inkscape
 * asperite
 * imagemagick
@@ -53,7 +55,7 @@
 * crocotile3d
 
 ### content creation
-* obs studio
+* [obs studio](https://obsproject.com/)
   
 ### configuration
 * [windows power toys](https://learn.microsoft.com/en-us/windows/powertoys/) (swap escape and caps)
