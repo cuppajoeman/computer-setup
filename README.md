@@ -69,9 +69,9 @@ How to install applications. If the application is gui software which autoupdate
 * visual studio
 * android studio
 * webstorm
-* github desktop
-* git-bash
-* nodejs
+* [github desktop](https://desktop.github.com/)
+* [git-bash](https://git-scm.com/downloads)
+* [nodejs](https://nodejs.org/en)
 * Websites:
   * https://programming-idioms.org/
   
