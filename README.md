@@ -2,8 +2,15 @@
 
 How to install applications. If the application is gui software which autoupdates itself, install it directly from the website. If it is software which is downloadable through a github release or is command line only software consider installing it with scoop.
 
+
+## physical setup
+* chair 16in off the ground
+* mouse pad 24in off the ground, close to right leg, slight downward elbow angle, keyboard symetrically on left
+* monitor 20in away from face
+
 ## hardware
 * steelseries qck cloth mousepad large (450x400x2mm)
+* mouse with high DPI and poll rate using 30in per 360 in any game
 * any keyboard with decent switches
 * 144hz+ monitor at eye level
 
