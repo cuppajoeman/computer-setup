@@ -2,6 +2,8 @@
 
 How to install applications. If the application is gui software which autoupdates itself, install it directly from the website. If it is software which is downloadable through a github release or is command line only software consider installing it with scoop.
 
+## debloat
+* If running windows be sure to reomve any bloat: https://github.com/LeDragoX/Win-Debloat-Tools
 
 ## physical setup
 * chair 16in off the ground
