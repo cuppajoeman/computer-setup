@@ -26,7 +26,7 @@ How to install applications. If the application is gui software which autoupdate
 
 ### mouse settings
 * 3 mouse sensitivity, mouse enhanced precision turned off (w)
-* manage [multiple mouse profiles](https://www.gphotoshow.com/free-software/mouse-speed-switcher.html)
+* manage [multiple mouse profiles](https://www.gphotoshow.com/free-software/mouse-speed-switcher.html) (w)
 * mouse sensitivity matrix (l)
 
 ### browser
