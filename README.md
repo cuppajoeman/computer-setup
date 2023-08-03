@@ -33,8 +33,9 @@ How to install applications. If the application is gui software which autoupdate
 * [chrome](https://www.google.com/chrome/) (w,m), firefox (l)
 
 ### files
+* [terminal file management](https://github.com/ranger/ranger)
 * cloud storage: [google drive](https://www.google.com/intl/en_ca/drive/download/)
-* a visual storage manager: [windirstat](https://windirstat.net/)
+* a visual storage manager: [windirstat](https://windirstat.net/) (w)
 * document format changer: [pandoc](https://pandoc.org/)
 * zip file opener: [7zip](https://www.7-zip.org/)
 
