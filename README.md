@@ -67,6 +67,9 @@ How to install applications. If the application is gui software which autoupdate
 
 ### content creation
 * [obs studio](https://obsproject.com/)
+* pandoc
+* [miktex](https://miktex.org/)
+* imagemagick
   
 ### configuration
 * [windows power toys](https://learn.microsoft.com/en-us/windows/powertoys/) (swap escape and caps)
