@@ -42,6 +42,9 @@ How to install applications. If the application is gui software which autoupdate
 ### pdf 
 * pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor)
 
+### math
+* miktex - using princton mirror for downloads
+
 ### music
 * [fl-studio](https://www.image-line.com/)
 * reaper
