@@ -34,13 +34,13 @@ How to install applications. If the application is gui software which autoupdate
 
 ### files
 * [terminal file management](https://github.com/ranger/ranger)
-* cloud storage: [google drive](https://www.google.com/intl/en_ca/drive/download/)
+* cloud storage: [google drive](https://www.google.com/intl/en_ca/drive/download/) (w,m), [insync](https://www.insynchq.com/) (l)
 * a visual storage manager: [windirstat](https://windirstat.net/) (w)
 * document format changer: [pandoc](https://pandoc.org/)
 * zip file opener: [7zip](https://www.7-zip.org/)
 
 ### pdf 
-* pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor)
+* pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor) (w), zathura (l)
 
 ### math
 * miktex - using princton mirror for downloads
