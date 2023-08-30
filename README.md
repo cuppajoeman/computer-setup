@@ -29,6 +29,9 @@ How to install applications. If the application is gui software which autoupdate
 * manage [multiple mouse profiles](https://www.gphotoshow.com/free-software/mouse-speed-switcher.html) (w)
 * mouse sensitivity matrix (l)
 
+### keyboard settings
+* swap escape and caps: power tools (w), `setxkbmap -option caps:swapescape` (l), keyboard modifiers in settings (m)
+
 ### browser
 * [chrome](https://www.google.com/chrome/) (w,m), firefox (l)
 
