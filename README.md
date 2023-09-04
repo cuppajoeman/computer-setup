@@ -1,5 +1,7 @@
 # computer-setup
 
+This repository lists the tools that I would use to setup a computer, the tool will be for one of the following: (w)indows, (m)ac, (l)inux or (b)rowser
+
 How to install applications. If the application is gui software which autoupdates itself, install it directly from the website. If it is software which is downloadable through a github release or is command line only software consider installing it with scoop.
 
 ## debloat
@@ -23,9 +25,9 @@ How to install applications. If the application is gui software which autoupdate
 * htop, neofetch (l)
 
 ### communication
-* cloudirc
-* [discord](https://discord.com/)
-* email
+* cloudirc (b)
+* [discord](https://discord.com/) (w, m, l)
+* email (b)
 
 ### mouse settings
 * 3 mouse sensitivity, mouse enhanced precision turned off (w)
@@ -92,11 +94,12 @@ How to install applications. If the application is gui software which autoupdate
 * visual studio
 * android studio
 * webstorm
-* [github desktop](https://desktop.github.com/)
-* [git-bash](https://git-scm.com/downloads)
-* [nodejs](https://nodejs.org/en)
+* [github desktop](https://desktop.github.com/) (w, m, l)
+* [git-bash](https://git-scm.com/downloads) (w, m, l)
+* [nodejs](https://nodejs.org/en) (w, m, l)
 * Websites:
-  * https://programming-idioms.org/
+  * https://programming-idioms.org/ (b)
+  * r[egex testing](https://regex101.com/) (b)
   
 ### video editing
 * shotcut
