@@ -10,6 +10,9 @@ How to install applications. If the application is gui software which autoupdate
 * mouse pad 24in off the ground, close to right leg, slight downward elbow angle, keyboard symetrically on left
 * monitor 20in away from face
 
+## monitor
+* color temperature: night mode (w,m built in), redshift (l)
+
 ## hardware
 * steelseries qck cloth mousepad large (450x400x2mm)
 * mouse with high DPI and poll rate using 30in per 360 in any game
