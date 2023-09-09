@@ -1,8 +1,10 @@
 # computer-setup
 
-This repository lists the tools that I would use to setup a computer, the tool will be for one of the following: (w)indows, (m)ac, (l)inux or (b)rowser
+This repository lists the tools that I would use to setup a computer, the tool will be for one of the following: (w)indows, (m)ac, (l)inux or (b)rowser.
 
 How to install applications. If the application is gui software which autoupdates itself, install it directly from the website. If it is software which is downloadable through a github release or is command line only software consider installing it with scoop.
+
+Note that my software selection is motivated by selecting open source and minimal software when possible (especially on linux), though I make exceptions while running windows or mac.
 
 ## debloat
 * If running windows be sure to reomve any bloat: https://github.com/LeDragoX/Win-Debloat-Tools
