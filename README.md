@@ -6,6 +6,8 @@ How to install applications. If the application is gui software which autoupdate
 
 Note that my software selection is motivated by selecting open source and minimal software when possible (especially on linux), though I make exceptions while running windows or mac.
 
+This repository is mainly for myself when setting up a new computer, but also to anyone who is looking for software for particular tasks, or just curious about what kind of tools I use
+
 ## debloat
 * If running windows be sure to reomve any bloat: https://github.com/LeDragoX/Win-Debloat-Tools
 
