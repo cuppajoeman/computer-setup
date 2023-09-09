@@ -4,7 +4,9 @@ This repository lists the tools that I would use to setup a computer, the tool w
 
 How to install applications. If the application is gui software which autoupdates itself, install it directly from the website. If it is software which is downloadable through a github release or is command line only software consider installing it with scoop.
 
-Note that my software selection is motivated by selecting open source and minimal software when possible (especially on linux), though I make exceptions while running windows or mac.
+Note that my software selection is motivated by selecting open source and minimal software when possible (especially on linux), though I make exceptions while running windows or mac. 
+
+My preferred operating system depends on what my main goal is for the computer, for a custom built desktop computer, I generally go with windows as that let's me have the most options when it comes to games, music creation and gui programs, on low end systems or laptops prefer linux as it's lightweight and easy to setup for programming, finally I use a mac if it's given to me.
 
 This repository is mainly for myself when setting up a new computer, but also to anyone who is looking for software for particular tasks, or just curious about what kind of tools I use
 
