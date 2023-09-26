@@ -54,10 +54,11 @@ This repository is mainly for myself when setting up a new computer, but also to
 * zip file opener: [7zip](https://www.7-zip.org/)
 
 ### pdf 
-* pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor) (w), zathura (l)
+* pdf editor and viewer: [pdf-exchange editor](https://www.tracker-software.com/product/pdf-xchange-editor) (w), viewer: [zathura](https://pwmt.org/projects/zathura/) (with zathura-pdf-mupdf), editor: [xournalpp](https://xournalpp.github.io/) (l)
 
 ### math
-* miktex - using princton mirror for downloads
+* miktex - using princeton mirror for downloads
+
 
 ### music
 * [fl-studio](https://www.image-line.com/)
