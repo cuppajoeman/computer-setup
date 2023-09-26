@@ -109,4 +109,4 @@ This repository is mainly for myself when setting up a new computer, but also to
   * r[egex testing](https://regex101.com/) (b)
   
 ### video editing
-* shotcut
+* [shotcut](https://shotcut.org/)https://shotcut.org/
