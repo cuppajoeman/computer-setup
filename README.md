@@ -61,15 +61,13 @@ This repository is mainly for myself when setting up a new computer, but also to
 
 
 ### music
-* [fl-studio](https://www.image-line.com/)
-* reaper
-* loopmidi
-* ample upright bass vst
-* pianoteq for keyboard vst
-* musescore
-* anchor-keyboard
-* audacity
-* metronome
+* DAW: [fl-studio](https://www.image-line.com/) (w) reaper,LMMS (l)
+* virtual midi cable: loopmidi (w, m, l)
+* jazz VST's: ample upright bass, pianoteq for keyboard vst
+* sheet music creation: musescore, lilypad
+* computer as midi device: anchor-keyboard
+* audio file editor: audacity
+* metronome: gtick (l)
 * spotify
 
 ### images
