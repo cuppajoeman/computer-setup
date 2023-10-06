@@ -65,15 +65,16 @@ This repository is mainly for myself when setting up a new computer, but also to
 * virtual midi cable: loopmidi (w, m, l)
 * jazz VST's: ample upright bass, pianoteq for keyboard vst
 * sheet music creation: musescore, lilypad
-* computer as midi device: anchor-keyboard
+* midi synth: surge-xt (l)
+* computer as midi device: anchor-keyboard (w,m,l)
 * audio file editor: audacity
 * metronome: gtick (l)
 * spotify
 
 ### images
-* [gimp](https://www.gimp.org/)
-* inkscape
-* asperite
+* raster image editing: [gimp](https://www.gimp.org/) (w, m, l)
+* vector image editing: inkscape (w, m, l)
+* pixel editor: asperite (w, m, l)
 * imagemagick
 
 ### 3d modelling
@@ -82,7 +83,7 @@ This repository is mainly for myself when setting up a new computer, but also to
 * crocotile3d
 
 ### content creation
-* [obs studio](https://obsproject.com/)
+* screen recording: [obs studio](https://obsproject.com/) (w, m, l)
 * pandoc
 * [miktex](https://miktex.org/)
 * imagemagick
