@@ -87,6 +87,9 @@ This repository is mainly for myself when setting up a new computer, but also to
 * pandoc
 * [miktex](https://miktex.org/)
 * imagemagick
+
+### downloading content
+* youtube-dl
   
 ### configuration
 * [windows power toys](https://learn.microsoft.com/en-us/windows/powertoys/) (swap escape and caps)
