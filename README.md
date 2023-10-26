@@ -109,6 +109,9 @@ This repository is mainly for myself when setting up a new computer, but also to
 * Websites:
   * https://programming-idioms.org/ (b)
   * r[egex testing](https://regex101.com/) (b)
+  * 
+* documentation
+  * https://github.com/amalrajan/learncpp-download
   
 ### video editing
 * [shotcut](https://shotcut.org/)https://shotcut.org/
