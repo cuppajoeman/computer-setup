@@ -106,9 +106,10 @@ This repository is mainly for myself when setting up a new computer, but also to
 * [github desktop](https://desktop.github.com/) (w, m, l)
 * [git-bash](https://git-scm.com/downloads) (w, m, l)
 * [nodejs](https://nodejs.org/en) (w, m, l)
+* [athame](https://github.com/ardagnir/athame)
 * Websites:
   * https://programming-idioms.org/ (b)
-  * r[egex testing](https://regex101.com/) (b)
+  * [regex testing](https://regex101.com/) (b)
   * 
 * documentation
   * https://github.com/amalrajan/learncpp-download
